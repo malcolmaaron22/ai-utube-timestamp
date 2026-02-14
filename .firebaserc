@@ -1,5 +1,7 @@
 {
   "projects": {
-    "default": "tubestampprod"
-  }
+    "default": "ai-utube-timestamp"
+  },
+  "targets": {},
+  "etags": {}
 }
